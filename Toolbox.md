@@ -4,7 +4,7 @@ i
 How do we start entering text into our new Vim document?
 typing
 
-How do we return to command mode?            
+How do we return to command mode?
 esc
 
 How do we move the cursor left?
