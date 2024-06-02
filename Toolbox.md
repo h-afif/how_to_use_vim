@@ -23,10 +23,10 @@ j
 How do we jump to the start of a word?
 w
 
-How do we jump to the end of a word?
+How do we jump to the end of a word?   
 e
 
-How do we insert (before the cursor)    
+How do we insert (before the cursor)   
 i
 
 How do we insert (at the beginning of the line?)    
