@@ -1,26 +1,25 @@
 How do we enter "INSERT" mode?    
 i
 
-How do we start entering text into our new Vim document?
-
+How do we start entering text into our new Vim document?    
 typing
 
-How do we return to command mode?
+How do we return to command mode?    
 esc
 
-How do we move the cursor left?
+How do we move the cursor left?    
 h
 
-How do we move the cursor right?
+How do we move the cursor right?    
 l
 
-How do we move the cursor up?
+How do we move the cursor up?    
 k
 
-How do we move the cursor down?
+How do we move the cursor down?    
 j
 
-How do we jump to the start of a word?
+How do we jump to the start of a word?    
 w
 
 How do we jump to the end of a word?   
