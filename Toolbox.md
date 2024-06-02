@@ -34,7 +34,7 @@ I
 How do we append (after the cursor)    
 a
 
-How do we append (at the end of the line) 
+How do we append (at the end of the line)    
 A
 
 How do we make a new line under the current line?     
