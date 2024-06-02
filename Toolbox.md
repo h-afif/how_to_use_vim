@@ -2,6 +2,7 @@ How do we enter "INSERT" mode?
 i
 
 How do we start entering text into our new Vim document?
+
 typing
 
 How do we return to command mode?
