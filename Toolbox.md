@@ -40,26 +40,21 @@ A
 How do we make a new line under the current line?     
 o
 
-How do we write the file, but don't exit?
-
+How do we write the file, but don't exit?    
 :w
-Correct Answer
-How do we write the file, but don't exit- as root?
 
+How do we write the file, but don't exit- as root?    
 :w !sudo tee %
-Correct Answer
-How do we write and quit?
 
+How do we write and quit?   
 :wq
-Correct Answer
-How do we quit?
 
+How do we quit?    
 :q
-Correct Answer
-How do we force quit?
 
+How do we force quit?    
 :q!
 
-How do we save and quit, for all active tabs?
+How do we save and quit, for all active tabs?    
 :wqa
 
